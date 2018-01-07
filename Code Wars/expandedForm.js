@@ -2,7 +2,7 @@
 // You will be given a number and you will need to return it as a string in Expanded Form.
 
 function expandedForm(num){
-  // solution pending...
+  // solution pending!
 }
 expandedForm(12); // Should return '10 + 2'
 expandedForm(42); // Should return '40 + 2'
